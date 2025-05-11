@@ -1,7 +1,7 @@
 import math
 print(math.floor(4.6))
 from math import floor,ceil
-print(ceil(9.6))
+print(ceil(3.6))
 solar =['mercuy','venus','earth','mars','jupiter','saturn','uranus','neptune','pluto']
 print(solar)
 import pprint
