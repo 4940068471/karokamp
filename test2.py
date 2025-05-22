@@ -1,5 +1,5 @@
 import math
-print(math.floor(4.6))
+print(math.floor(5.6))
 from math import floor,ceil
 print(ceil(3.6))
 solar =['mercuy','venus','earth','mars','jupiter','saturn','uranus','neptune','pluto']
